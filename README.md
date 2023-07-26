@@ -13,7 +13,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahhdev&theme=omni&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p align="center">
-  Made with :purple_heart: by <b><a href="https://github.com/mahhdev/" target="_blank">Maria Mendes</a></b>
+  Made with : by <b><a href="https://github.com/mahhdev/" target="_blank">Sabrina Comin Nart</a></b>
 </p>
 
 
