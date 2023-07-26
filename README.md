@@ -3,7 +3,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 [![Github](https://github.com/Sabrina-Nart)
-[![Linkedin](https://www.linkedin.com/in/sabrina-comin-nart-98053a1b3/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaodetemendes)(https://www.linkedin.com/in/sabrina-comin-nart-98053a1b3/)
 [![Instagram](https://www.instagram.com/sabrinacominnart/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahhdev&layout=compact&theme=omni)]
