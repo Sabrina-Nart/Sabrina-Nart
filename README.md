@@ -4,6 +4,7 @@
 - 🌱 Cursando Sistemas de Informação - Esucri - Criciúma
 - 🌿 Estudando programação back-end em C#
 
+Trabalho utilizando:
 <div> 
   <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>  
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
@@ -15,6 +16,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.s
   <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
   <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  
+</div><br>
+
+Na graduação estudo:
+<div>
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>  
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
