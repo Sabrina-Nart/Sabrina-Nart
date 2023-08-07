@@ -8,7 +8,6 @@
 
 Trabalho utilizando:
 <div> 
-  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>  
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>  
   <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
@@ -22,6 +21,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.s
 
 Na graduação estudo:
 <div>
+  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>  
+   <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>     
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>  
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
@@ -30,7 +31,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>    
 </div><br><br>
 
 <div align="center">
@@ -40,8 +40,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 </div><br><br>
  
 <div> 
+   <a href="https://www.linkedin.com/in/sabrina-comin-nart-98053a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "mailto:sabrinacominnart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/sabrinacominnart/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sabrina-comin-nart-98053a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.youtube.com/channel/UCsfGUF2oAKwzytvZZelcCHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+
+  
 </div>
 
 
