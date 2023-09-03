@@ -15,8 +15,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
   <img align="center" alt="sabrina-nart" height="30" width="40"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
-  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  
+  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
 </div><br><br>
 
 Na graduação estudo:
@@ -31,6 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>   
 </div><br><br>
 
 <div align="center">
