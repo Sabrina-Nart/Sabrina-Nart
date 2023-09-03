@@ -21,16 +21,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.s
 Na graduação estudo:
 <div>
   <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>  
-   <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>     
-  <img img align="center" alt="sabrina-nart" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>  
-  <img img align="center" alt="sabrina-nart" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-  <img img align="center" alt="sabrina-nart" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img img align="center" alt="sabrina-nart" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>   
+   <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>   
+  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
+  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>  
+  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
+  <img align="center" alt="sabrina-nart" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/> 
+  <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>  
+ <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>   
 </div><br><br>
 
 <div align="center">
