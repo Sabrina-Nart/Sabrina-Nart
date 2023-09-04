@@ -52,5 +52,4 @@ Na graduação estudo:
 <div align="center">
   <br><p align="centre"><b>Contagem de Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sabrina-nart}/count.svg" /></p> 
-  <br><br>
 </div>
