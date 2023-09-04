@@ -1,4 +1,4 @@
-## Oii! Eu sou a Sabrina Nart
+## Oii! Eu me chamo Sabrina Comin Nart
 
 - 🔭 Hoje trabalho como S2 e desenvolvendo correções back-end de pequeno porte em C# 
 - 🌱 Cursando Sistemas de Informação - Esucri - Criciúma
