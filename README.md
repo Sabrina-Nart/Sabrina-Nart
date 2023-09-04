@@ -38,7 +38,6 @@ Na graduação estudo:
   <a href="https://github.com/sabrina-nart">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sabrina-nart&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-nart&layout=compact&langs_count=7&theme=radical"/>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=sabrina-nartl&theme=dark&hide_border=true" width = 400>
 </div><br><br>
  
 <div> 
