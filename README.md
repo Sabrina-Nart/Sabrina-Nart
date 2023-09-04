@@ -38,6 +38,7 @@ Na graduação estudo:
   <a href="https://github.com/sabrina-nart">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sabrina-nart&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-nart&layout=compact&langs_count=7&theme=radical"/>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=sabrina-nartl&theme=dark&hide_border=true" width = 400>
 </div><br><br>
  
 <div> 
@@ -45,10 +46,11 @@ Na graduação estudo:
 <a href = "mailto:sabrinacominnart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/sabrinacominnart/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/channel/UCsfGUF2oAKwzytvZZelcCHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <br><br>
 </div>
 
 <div align="center">
   <br><p align="centre"><b>Contagem de Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sabrina-nart}/count.svg" /></p> 
-  <br>
+  <br><br>
 </div>
