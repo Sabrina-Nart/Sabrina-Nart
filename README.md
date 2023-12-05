@@ -60,5 +60,3 @@ Na graduação estudo:
 ![](https://github.com/bastndev/Resources/blob/main/assets/snike/bastndev_snike.svg)<br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrina-nart&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-
