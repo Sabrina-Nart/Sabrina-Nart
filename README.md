@@ -38,7 +38,13 @@ Na graduação estudo:
   <a href="https://github.com/sabrina-nart">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sabrina-nart&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-nart&layout=compact&langs_count=7&theme=radical"/>
-</div><br><br>
+</div><br>
+
+<div> 
+   <p align="center">
+      <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+   </p>
+</div><br>
  
 <div> 
    <a href="https://www.linkedin.com/in/sabrina-comin-nart-98053a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -52,6 +58,11 @@ Na graduação estudo:
   <br><p align="centre"><b>Contagem de Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sabrina-nart}/count.svg" /></p> 
 </div><br><br>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrina-nart_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ![](https://github.com/bastndev/Resources/blob/main/assets/snike/bastndev_snike.svg)
 
