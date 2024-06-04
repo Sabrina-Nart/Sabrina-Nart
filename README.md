@@ -1,6 +1,6 @@
 ## Oii! Eu me chamo Sabrina Comin Nart
 
-- 🔭 Atualmente estou trabalhando como S2 e desenvolvendo correções back-end de pequeno porte em C# 
+- 🔭 Atualmente estou trabalhando como S2 
 - 🌱 Cursando Sistemas de Informação - Esucri - Criciúma
 - 🌿 Estudando programação back-end em C#
 
