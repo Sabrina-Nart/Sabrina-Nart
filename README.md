@@ -1,8 +1,8 @@
 ## Oii! Eu me chamo Sabrina Comin Nart
 
-- 🔭 Atualmente trabalho como S2 
-- 🌱 Cursando Sistemas de Informação - Esucri - Criciúma
-- 🌿 Estudando programação back-end em C#
+- 🔭 Atualmente trabalho como desenvolvedora back-end
+- 🌱 Bacharela em Sistemas de Informação - Esucri - Criciúma
+- 🌿 Estudando programação front-end
 
 <br>
 
@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.s
   <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
 </div><br><br>
 
-Na graduação estudo:
+Na graduação estudei:
 <div>
   <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>  
    <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>   
