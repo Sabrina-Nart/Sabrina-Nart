@@ -1,8 +1,9 @@
 ## Oii! Eu me chamo Sabrina Comin Nart
 
-- 🔭 Atualmente trabalho como desenvolvedora back-end
+- 🔭 Atualmente trabalho como desenvolvedora Front end
+- 🌿 Trabalhei durante dois anos como S2 - Com foco em desenvolvimento Back end
+- 🍃 Trabalehi sete meses com desenvolvimento desktop, utilizando PowerBuilder
 - 🌱 Bacharela em Sistemas de Informação - Esucri - Criciúma
-- 🌿 Estudando programação front-end
 
 <br>
 
@@ -10,8 +11,10 @@ Trabalho utilizando:
 <div> 
   <img img align="center" alt="sabrina-nart" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>  
+  <img img align="center" alt="sabrina-nart" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />     
   <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
-  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>        
+  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>  
+  <img img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="sabrina-nart" height="30" width="40"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   <img align="center" alt="sabrina-nart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
