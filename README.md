@@ -2,8 +2,9 @@
 
 - 🔭 Atualmente trabalho como desenvolvedora Front end
 - 🌿 Trabalhei durante dois anos como S2 - Com foco em desenvolvimento Back end
-- 🍃 Trabalehi sete meses com desenvolvimento desktop, utilizando PowerBuilder
+- 🍃 Trabalhei sete meses com desenvolvimento Desktop, utilizando PowerBuilder
 - 🌱 Bacharela em Sistemas de Informação - Esucri - Criciúma
+- 🌻 Cursando Pós-graduação em Engenharia de Software - PUC Minas
 
 <br>
 
